@@ -1,0 +1,7 @@
+E:\Project\C#\ScoketTestServerHelper\ScoketTestServerHelper\bin\Debug\ScoketTestServerHelper.exe.config
+E:\Project\C#\ScoketTestServerHelper\ScoketTestServerHelper\bin\Debug\ScoketTestServerHelper.exe
+E:\Project\C#\ScoketTestServerHelper\ScoketTestServerHelper\bin\Debug\ScoketTestServerHelper.pdb
+E:\Project\C#\ScoketTestServerHelper\ScoketTestServerHelper\obj\Debug\ScoketTestServerHelper.csprojAssemblyReference.cache
+E:\Project\C#\ScoketTestServerHelper\ScoketTestServerHelper\obj\Debug\ScoketTestServerHelper.csproj.CoreCompileInputs.cache
+E:\Project\C#\ScoketTestServerHelper\ScoketTestServerHelper\obj\Debug\ScoketTestServerHelper.exe
+E:\Project\C#\ScoketTestServerHelper\ScoketTestServerHelper\obj\Debug\ScoketTestServerHelper.pdb
